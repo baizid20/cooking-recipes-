@@ -1,0 +1,123 @@
+.sign{
+    text-align: center;
+    
+}
+.black{
+    margin-top: 5%;
+    margin-bottom: 4%;
+    text-decoration: underline;
+}
+.known{
+   border: 1px solid mediumaquamarine;
+   padding:3%;
+   background-color: cadetblue;
+   box-shadow: 10px 10px;
+   border-radius: 0px 20px 30px 40px;
+}
+.a{
+    text-decoration: underline;
+    background-color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.b{
+background-color: cadetblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.c{
+background-color: brown;
+font-family: Arial, Helvetica, sans-serif;
+}
+.d{
+background-color: crimson;
+font-family: fantasy;
+text-decoration: wavy;
+}
+.e{
+background-color: darkgreen;
+}
+.easy{
+    font-size: 50px;
+    
+}
+.line{
+    text-decoration: underline orange;
+    font-size: medium;
+    border-right: 1px solid silver;
+    padding-right: 20px;
+}
+.beef{
+    margin-right:30%;
+    font-weight: lighter;
+}
+.bpx{
+    border: 1px solid;
+    padding: 15px 40px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: orangered;
+    color: white;
+    font-size: medium;
+}
+.boxside{
+    font-size: medium;
+    border-right: 1px solid black ;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    
+    
+}
+.emg{
+    width: 120px;
+    height: 80px;
+    margin: 5px 10px 5px 0px ;
+    
+}
+
+.egg{
+    background-image: url("images/korean\ beef\ rice\ bowl-small.jpeg");
+    display: inline;
+    font-weight: bolder;
+    font-size: medium;
+    background-repeat: no-repeat;
+
+    /* /* width: 150px;
+    height: 30px;
+    /*  */
+    margin-left: 2px;
+    margin-top: 0px;
+     padding: 35px 60px ;
+     margin-top: 0px;
+    background-color: black;
+    color:white;
+    background-size: cover;
+
+}
+
+.bxes{
+    border-top: 10px solid orange;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    /* padding: 0%; */
+    height: 500px;
+    width: 400px;
+
+   
+}
+
+.random{
+   text-decoration: underline black;
+color: black;
+   text-align: center;
+   margin: 0px 0px
+   
+}
+a:link{
+    color: black;
+    text-decoration: underline yellow;
+    
+}
+.pound{
+    display: flex;
+}
